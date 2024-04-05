@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Swarnim!
-- 👀 I’m interested in complicated things that I dont understand
 - 🌱 I’m currently learning Python & Go
 - 📫 Find me at @smarniw on instagram
 
