@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Swarnim!
 - 🌱 I’m currently learning Python & Go
-- 💻 Learning Data Structures & Algorithms using C and C++
+- 💻 Learning Data Structures & Algorithms
 
 <!---
 swarnimcodes/swarnimcodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
